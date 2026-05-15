@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Analytics } from '@vercel/analytics/react'
+import { SpeedInsights } from '@vercel/speed-insights/react'
 import { AnimatePresence } from 'framer-motion'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
@@ -60,6 +61,7 @@ export default function App() {
 
       <Footer />
       <Analytics />
+      <SpeedInsights />
     </div>
   )
 }
