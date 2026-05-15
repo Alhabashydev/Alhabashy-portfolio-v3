@@ -9,8 +9,8 @@
   --border: rgba(255, 255, 255, 0.08);
   --border-hover: rgba(255, 255, 255, 0.18);
   --text-primary: #F0EDE8;
-  --text-secondary: #6B6762;
-  --text-dim: #3A3835;
+  --text-secondary: #999795;
+  --text-dim: #aaa9a7;
   --glow: rgba(255, 255, 255, 0.06);
   --glow-strong: rgba(255, 255, 255, 0.12);
 }
